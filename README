@@ -34,6 +34,13 @@ Design goals:
 
 ---
 
+## Roles & Permissions
+
+- This bot does not require pre-created DM or Player roles.
+- The user who starts a session becomes the DM for that channel session.
+
+---
+
 ## Data & Privacy
 
 ArgonautDiceBot does not collect or store personal user data.
