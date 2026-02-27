@@ -92,7 +92,7 @@ https://dotnet.microsoft.com/
 
 ### 2. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/ArgonautDiceBot.git
+git clone https://github.com/Phylazian/ArgonautDiceBot.git
 cd ArgonautDiceBot
 
 ### 3. Set Bot Token
